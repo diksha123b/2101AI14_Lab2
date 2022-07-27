@@ -60,6 +60,9 @@ int main()
       x = num1 * num1;
       printf("Square = %ld", x);
       break;
-    default: printf("\nError");
+       case 6:
+   return 0;
+   default: printf("\nError");
    }
 }
+    
